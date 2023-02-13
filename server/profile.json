@@ -1,0 +1,141 @@
+[
+  {
+    "_id": 0,
+    "name": "Nihal shan",
+    "address": "Pattathil, Nadapuram, Kerala",
+    "date-of-birth": "07-05-2007",
+    "gender": "Male",
+    "phone": "8086473139",
+    "school": {
+      "class": "10",
+      "division": "H",
+      "guardian": "Nissar"
+    },
+    "medical-condition": {
+      "previous-medical-conditions": "",
+      "allergies": "Shellfish",
+      "medications": "",
+      "vaccination-records": "",
+      "family-medical-record": "Hearth patient - Mother",
+      "chronic-illnesses": "",
+      "surgeries-hospitalizations": "Right elbow"
+    },
+    "physical": {
+      "height": "173cm",
+      "weight": "60kg",
+      "blood-pressure": "",
+      "vision": "Normal",
+      "hearing": "Normal"
+    },
+    "mental-health": "Normal",
+    "emergency-contact": {
+      "name": "Shahida",
+      "relation": "Mother",
+      "number": "8590681478"
+    }
+  },
+
+  {
+    "_id": 1,
+    "name": "Nihal shan",
+    "date-of-birth": "07-05-2007",
+    "gender": "Male",
+    "phone": "8086473139",
+    "school": {
+      "class": "10",
+      "division": "H",
+      "guardian": "Nissar"
+    },
+    "medical-condition": {
+      "previous-medical-conditions": "",
+      "allergies": "Food",
+      "medications": "",
+      "vaccination-records": "",
+      "family-medical-record": "Hearth patient - Mother",
+      "chronic-illnesses": "",
+      "surgeries-hospitalizations": "Right elbow"
+    },
+    "physical": {
+      "height": "172cm",
+      "weight": "60kg",
+      "blood-pressure": "",
+      "vision": "Normal",
+      "hearing": "Normal"
+    },
+    "mental-health": "Normal",
+    "emergency-contact": {
+      "name": "Shahida",
+      "relation": "Mother",
+      "number": "8590681478"
+    }
+  },
+
+  {
+    "_id": 2,
+    "name": "Nihal shan",
+    "date-of-birth": "07-05-2007",
+    "gender": "Male",
+    "phone": "8086473139",
+    "school": {
+      "class": "10",
+      "division": "H",
+      "guardian": "Nissar"
+    },
+    "medical-condition": {
+      "previous-medical-conditions": "",
+      "allergies": "Food",
+      "medications": "",
+      "vaccination-records": "",
+      "family-medical-record": "Hearth patient - Mother",
+      "chronic-illnesses": "",
+      "surgeries-hospitalizations": "Right elbow"
+    },
+    "physical": {
+      "height": "172cm",
+      "weight": "60kg",
+      "blood-pressure": "",
+      "vision": "Normal",
+      "hearing": "Normal"
+    },
+    "mental-health": "Normal",
+    "emergency-contact": {
+      "name": "Shahida",
+      "relation": "Mother",
+      "number": "8590681478"
+    }
+  },
+  {
+    "_id": 3,
+    "name": "Nihal shan",
+    "date-of-birth": "07-05-2007",
+    "gender": "Male",
+    "phone": "8086473139",
+    "school": {
+      "class": "10",
+      "division": "H",
+      "guardian": "Nissar"
+    },
+    "medical-condition": {
+      "previous-medical-conditions": "",
+      "allergies": "Food",
+      "medications": "",
+      "vaccination-records": "",
+      "family-medical-record": "Hearth patient - Mother",
+      "chronic-illnesses": "",
+      "surgeries-hospitalizations": "Right elbow"
+    },
+    "physical": {
+      "height": "172cm",
+      "weight": "60kg",
+      "blood-pressure": "",
+      "vision": "Normal",
+      "hearing": "Normal"
+    },
+    "mental-health": "Normal",
+    "emergency-contact": {
+      "name": "Shahida",
+      "relation": "Mother",
+      "number": "8590681478"
+    }
+  }
+]
